@@ -69,7 +69,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: yellow;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -95,7 +95,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: blue;
 	text-align: right;
 	padding: 20px;
 	height: 1%;

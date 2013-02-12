@@ -23,7 +23,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #363;
 }
 
 #navigation ul
@@ -42,13 +42,13 @@
 {
 	display: block;
 	float: left;
-	padding: 5px 10px;
+	padding: 5px 20px;
 	color: #fff;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
 
-#navigation li a:hover { background: #383; }
+#navigation li a:hover { background: #384; }
 
 #edito
 {
